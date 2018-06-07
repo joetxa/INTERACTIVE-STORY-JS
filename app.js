@@ -3,7 +3,7 @@ var getBody = document.querySelector('body');
 var home = "<audio autoplay><source src='audio/oumouSangare.mp3' type='audio/mp3'/></audio>";
     home += "<div class='Content'>";
     home += "<header class='Header'>";
-    home += "<div class='HeaderLeft'><p class='BackHome'>Back Home</p></div>";
+    home += "<div class='HeaderLeft'></div>";
     home += "<div class='HeaderRight'>";
     home += "<div class='OvalNumber'>";
         home += content[0].counter;
