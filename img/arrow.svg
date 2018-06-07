@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>right-arrow (2)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reponse-1B-Copy" transform="translate(-843.000000, -649.000000)" fill="#FAFAFA" fill-rule="nonzero">
+            <g id="right-arrow-(2)" transform="translate(843.500000, 648.793108)">
+                <path d="M12.6705117,0.601707392 C12.4141736,0.336406417 11.9875409,0.336406417 11.7222399,0.601707392 C11.4659018,0.858045496 11.4659018,1.28467815 11.7222399,1.54041873 L16.5305214,6.34870014 L0.663849963,6.34870014 C0.293982162,6.34929766 0,6.64327983 0,7.01314763 C0,7.38301543 0.293982162,7.68655799 0.663849963,7.68655799 L16.5305214,7.68655799 L11.7222399,12.4858765 C11.4659018,12.7511775 11.4659018,13.1784077 11.7222399,13.4341483 C11.9875409,13.6994492 12.4147711,13.6994492 12.6705117,13.4341483 L18.6170777,7.48758225 C18.8823786,7.23124415 18.8823786,6.8046115 18.6170777,6.54887092 L12.6705117,0.601707392 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
