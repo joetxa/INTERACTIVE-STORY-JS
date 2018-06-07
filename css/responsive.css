@@ -1,0 +1,4 @@
+@media screen and (max-width: 945px) {
+   .Content {display: none;}
+   .Responsive {display: block; color: black;}
+}

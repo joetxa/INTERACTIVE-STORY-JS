@@ -1,0 +1,304 @@
+body, html, h1, p {
+   margin: 0px;
+   padding: 0px;
+   font-family: 'Roboto', sans-serif;
+}
+
+.Responsive {
+   display: none;
+   height: 100vh;
+   line-height: 100vh;
+   width: 100vw;
+   text-align: center;
+   background-color: #CC5500;
+}
+
+.ResponsiveTxt {color: #FAFAFA;}
+
+.Content {
+   background-image: url("../img/bg.jpg");
+   background-size: cover;
+}
+
+.ContentIntro {
+   background-image: url("../img/bgintro.jpg");
+   background-size: cover;
+}
+
+.End {
+   color: #FAFAFA;
+   font-weight: 400;
+}
+
+video {
+   width: 100%;
+   height: 100%;
+   position: fixed;
+   top: 0;
+   z-index: -2;
+   margin: 0px;
+   padding: 0px;
+}
+.Header {
+   width: 100vw;
+   height: 15vh;
+   display: flex;
+}
+
+.HeaderAnswer {
+   width: 100vw;
+   height: 15vh;
+   display: flex;
+   position: fixed;
+}
+
+.HeaderLeft {
+   width: 50vw;
+   margin:40px 0px 0px 30px;
+}
+
+.BackHome {
+  font-weight: 400;
+  color: #FAFAFA;
+}
+.HeaderRight {
+   width: 50vw;
+   display: flex;
+   justify-content: flex-end;
+}
+
+.OvalNumber {
+   height: 40px;
+   width: 40px;
+   border-radius: 100%;
+   background-color: #CC5500;
+   color: #FAFAFA;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   font-size: 12px;
+   font-weight: 200;
+   margin-top: 40px;
+   margin-right: 30px;
+}
+
+.OvalNumberMarket {
+   height: 40px;
+   width: 40px;
+   border-radius: 100%;
+   border: solid 1px #FAFAFA;
+   color: #FAFAFA;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   font-size: 12px;
+   font-weight: 200;
+   margin-top: 40px;
+   margin-right: 30px;
+}
+
+.MiddleContent {
+   height: 70vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   color: #FAFAFA;
+   margin: 0px 30px;
+}
+
+.MiddleContentAnswer {
+   height: 90vh;
+   display: flex;
+}
+
+.MiddleLeft {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/market.jpg");
+   background-size: cover;
+}
+
+.MiddleLeftYes {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/mask.jpg");
+   background-size: cover;
+}
+
+.MiddleLeftHarbour {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/harbour.jpg");
+   background-size: cover;
+}
+
+.MiddleLeftAgree {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/agree.jpg");
+   background-size: cover;
+}
+
+.MiddleLeftDisagree {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/pont.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+.MiddleLeftNo {
+   height: 100vh;
+   width: 50vw;
+   background-image: url("../img/no.jpg");
+   background-size: cover;
+}
+
+.MiddleRight {
+   height: 100vh;
+   width: 50vw;
+   background-color: #CC5500;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   padding: 0px 50px;
+   text-align: center;
+   box-sizing: border-box;
+}
+
+.MiddleTitle {
+   font-size: 40px;
+   color: #FAFAFA;
+   margin-bottom: 10px;
+   text-align: center;
+   padding-left: 30px;
+}
+
+
+.MiddleTitleAnswer {
+   font-size: 40px;
+   padding-bottom: 8px;
+   color: #FAFAFA;
+   margin-bottom: 20px;
+   text-align: left;
+   padding-left: 30px;
+}
+
+.MiddleBaseline {
+   font-weight: 300;
+   padding-bottom: 60px;
+}
+
+
+.MiddleBaselineAnswer {
+   font-weight: 300;
+   padding-bottom: 60px;
+   text-align: justify;
+   color: #FAFAFA;
+   font-size: 16px;
+   line-height: 25px;
+   padding: 0px 30px;
+}
+
+.MiddleBaselineIntro {
+   padding-top: 10px;
+   font-weight: 300;
+   width: 600px;
+   margin: 0 auto;
+   text-align: justify;
+   line-height: 27px;
+}
+
+.Button {
+   height: 38px;
+   width: 120px;
+   margin: 0 auto;
+   background: #CC5500;
+   border-radius: 100px;
+   border: none;
+   font-weight: 300;
+   font-size: 14px;
+   color: #FAFAFA;
+   font-weight: 400;
+}
+
+.Answer {
+   margin: 0px 10px;
+}
+.Footer {
+   width: 100vw;
+   height: 15vh;
+   display: flex;
+   color: #FAFAFA;
+}
+
+.FooterAnswer {
+   position: fixed;
+   display: flex;
+   z-index: 1;
+}
+
+.FooterLeft {
+   width: 50vw;
+   padding-left: 30px;
+   display: flex;
+   align-items: flex-end;
+   padding-bottom: 40px;
+   box-sizing: border-box;
+}
+
+.FooterRight {
+   width: 50vw;
+   display: flex;
+   justify-content: flex-end;
+   align-items: flex-end;
+   padding-bottom: 40px;
+   color: #FAFAFA;
+}
+
+.Author {
+   margin-right: 30px;
+   font-size: 14px;
+   text-align: right;
+   font-weight: 300;
+}
+
+.AuthorAnswer {
+   margin-right: 70px !important;
+   font-size: 14px;
+   text-align: right;
+   font-weight: 300;
+}
+
+.Play {
+   color: #FAFAFA;
+   height: 80px;
+   width: 80px;
+   background-color: #CC5500;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   display: flex;
+   justify-content: center;
+   line-height: 110px;
+}
+
+.PlayAnswer {
+   color: #CC5500;
+}
+
+.Arrow {
+   display: flex;
+   padding-left: 30px;
+   padding-top: 30px;
+}
+
+.ArrowIntro {
+   width: 600px;
+   margin: 0 auto;
+   display: flex;
+   padding-top: 30px;
+}
